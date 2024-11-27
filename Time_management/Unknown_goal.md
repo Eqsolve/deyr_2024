@@ -35,8 +35,12 @@
 |**Dec 29, 2024 (Axad)**              |                  |                  |                  |                  |                  |                 |
 |**Dec 30, 2024 (Isniin)**            |                  |    
 |**Dec 31, 2024 (Talaado)**           |                  |
-|**January 01, 2025 (arbaco)**        |                  |
-|**January 02, 2025 (Khamiis)**       |                  |
-|**January 03, 2025 (jimco)**         |                  |
-|**January 04, 2025 (sabti)**         |                  |
-|**January 05, 2025 (axad)**          |                  |
+|**Jan 01, 2025 (arbaco)**            |                  |
+|**Jan 02, 2025 (Khamiis)**           |                  |
+|**Jan 03, 2025 (jimco)**             |                  |
+|**Jan 04, 2025 (sabti)**             |                  |
+|**Jan 05, 2025 (axad)**              |                  |
+|**Jan 06, 2025 (isniin)**            |                  |
+|**Jan 07, 2025 (talaado)**           |                  |
+|**Jan 08, 2025 (arbaco)**            |                  |
+
